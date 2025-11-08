@@ -22,7 +22,7 @@ The primary objective is to continuously monitor and display the current tempera
 This project can be run on:
 * Raspberry Pi 4 (if currently in use/testing)
 * **Raspberry Pi 3 (target/production hardware)**
-* ([https://thepihut.com/products/official-raspberry-pi-7-touchscreen-display]A connected monitor and keyboard for initial setup.)
+* [A connected monitor and keyboard for initial setup.](https://thepihut.com/products/official-raspberry-pi-7-touchscreen-display)
 
 ### 2. Initial Pi Configuration
 
